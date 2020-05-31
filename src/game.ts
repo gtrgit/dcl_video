@@ -24,4 +24,4 @@ screen.addComponent(
     myVideoTexture.playing = !myVideoTexture.playing
   })
 )
-engine.addEntity(screen)
+engine.addEntity(screen) 
